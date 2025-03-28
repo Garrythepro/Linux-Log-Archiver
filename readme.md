@@ -62,4 +62,5 @@ Example entry:
 - gzip
 - cron (optional for automation)
 
+Created as a project at roadmap.sh: https://roadmap.sh/projects/log-archive-tool
 
